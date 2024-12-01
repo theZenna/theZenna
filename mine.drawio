@@ -49,6 +49,15 @@
         <mxCell id="UmaBke9xIjh7v9-IDTWi-13" value="&lt;font&gt;&lt;b&gt;Signup/ Login&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=20;" connectable="0" vertex="1" parent="UmaBke9xIjh7v9-IDTWi-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UmaBke9xIjh7v9-IDTWi-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="218" y="265" as="sourcePoint" />
+            <mxPoint x="778" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmaBke9xIjh7v9-IDTWi-15" value="&lt;font&gt;&lt;b&gt;Signup/ Login&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=20;" connectable="0" vertex="1" parent="UmaBke9xIjh7v9-IDTWi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
